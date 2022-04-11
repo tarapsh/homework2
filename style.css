@@ -1,0 +1,46 @@
+body {
+  font-family: "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana,
+    sans-serif;
+}
+.menu {
+  width: 50px;
+}
+.cityname {
+  text-align: center;
+  right: 600px;
+  position: fixed;
+}
+.searchcity {
+  top: 15px;
+  right: 90px;
+  position: fixed;
+}
+.submitcity {
+  top: 15px;
+  right: 85px;
+  position: fixed;
+  background-color: white;
+  border-color: darkslategray;
+  border-radius: 3px;
+  box-shadow: 2px;
+}
+.circle {
+  position: fixed;
+  top: 160px;
+  right: 590px;
+  width: 250px;
+  border-radius: 50%;
+  display: inline;
+}
+.today {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 148px;
+  margin-right: 65px;
+}
+.tempreture {
+  text-align: center;
+  font-size: 70px;
+  margin-top: 20px;
+  margin-right: 55px;
+}
